@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.vk777{
+    background-color: aqua;
+    border: solid 5px blueviolet;
+    border-radius: 20px;
+}
+
+.a555:hover{
+    background-color: rgb(115, 255, 255);
+    /* text-decoration: line-through; */
+    transform: rotateZ(180deg);
+    color: white;
+    
+}
+.nv999{
+transform: translate(500px);
+
+
+}
+.blk222{
+    max-width: 1000px;
+    transform: translate(500px);
+
+  
+    
+}
+.ti333{
+    color: blueviolet;
+    font-weight:bolder ;
+    border: 5px solid red;
+}
+.form-control{
+    background-color: blueviolet;
+}
+
+.glb000 {
+    background-color: rgb(89, 0, 255);
+  
+    border: solid 4px yellow;
+    margin-bottom: 20px;
+    margin-top: 80px;
+    border-radius: 15px;
+    margin-left: 25%;
+    max-width: 1000px;
+
+    
+}
+
+.mkt111 {
+    color: yellow;
+    font-size: 24px;
+    font-weight: bolder;
+    /* transform: translate(300px); */
+    text-align: center;
+padding: 17px;
+}
+.prf{
+    font-weight: bolder;
+    color: yellow;
+    font-size: 18px;
+    text-align: center;
+
+
+}
+
+.suelto{
+    color: rgb(0, 0, 0);
+    margin-left:40%;
+    margin-right:40%;
+    width: 500px;
+    background-color: aqua;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    border: dashed 5px blueviolet;
+    font-weight: bolder;
+
+
+}
+
+
+.carti{
+    max-height: 80vh;
+    
+
+}
+.tafu{
+    margin-left:30% ;
+    margin-right: 30%;
+    margin-bottom: 30%;
+    margin-top: 45px;
+  
+}
